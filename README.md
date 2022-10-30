@@ -7,7 +7,7 @@ Our basic concept is to make a bulletin board website where multiple people can 
 ## Process
 To start off our project progress, we began with deciding on an idea and creating a potential wireframe. We have also decided that we will be using socket.io for this project and will, later on, see if NeDB will be needed. As for the coding progress, we began with installing all the necessary libraries, such as express, nodemon, and socket.io. Then, we made the connections between both the server and client-side code for sockets. 
 
-<img src= "https://github.com/oomie/CLproject2/blob/main/Media/wireframe.png" width = "400" height = "300">
+<img src= "https://github.com/oomie/CLproject2/blob/main/Media/wireframe.png" width = "420" height = "280">
 
 
 
