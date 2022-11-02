@@ -2,10 +2,11 @@
 Fatima Aljunaibi (toomie) & Fatema Alhameli
 
 ## Concept 
-Our basic concept is to make a bulletin board website where multiple people can add drawings or doodles to the bulletin board. People can make private rooms and choose a theme for everyone to draw. Users will then draw something that fits the theme and get to choose their favorite drawing at the end. 
+Our basic concept is to make a bulletin board website where multiple people can add drawings or doodles to the bulletin board. People can make private rooms to send drawing. Users are also able to like eachothers drawings.  
 
 ## Process
 
+### Wireframes: 
 <img src= "https://github.com/oomie/CLproject2/blob/main/media/wireframe2.png" width = "420" height = "280"><img src= "https://github.com/oomie/CLproject2/blob/main/media/wireframe1.png" width = "420" height = "280">
 
 ### Description of the web application’s functions:
