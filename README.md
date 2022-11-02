@@ -7,7 +7,7 @@ Our basic concept is to make a bulletin board website where multiple people can 
 ## Process
 
 
-<img src= "https://github.com/oomie/CLproject2/blob/main/Media/wireframe.png" width = "420" height = "280">
+<img src= "https://github.com/oomie/CLproject2/blob/main/media/wireframe1.png" width = "420" height = "280"><img src= "https://github.com/oomie/CLproject2/blob/main/media/wireframe2.png" width = "420" height = "280">
 
 
 
