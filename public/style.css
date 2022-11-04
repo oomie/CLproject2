@@ -1,0 +1,19 @@
+body{
+    background-color:pink;
+}
+
+.Tools{
+    position: absolute;
+    left: 1020px;
+    top: 500px;
+}
+
+.Rooms{
+    background-color:black;
+    z-index: 1;
+    width: 100vw;
+    height: 100vh;
+    position:absolute;
+}
+
+

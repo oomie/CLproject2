@@ -1,0 +1,9 @@
+body{
+    background-color: bisque;
+}
+
+.tools{
+    position: absolute;
+    left: 1020px;
+    top: 500px;
+}
