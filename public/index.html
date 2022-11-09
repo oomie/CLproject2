@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Board</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/p5.js"></script>
+  <script type="text/javascript" src="/socket.io/socket.io.js"></script>
+  <script src="app.js"></script>
+  <script src="private/common.js"></script>
+</head>
+
+<body>
+  <div class="Rooms" id="Rooms">
+    <button id="public-btn">Public Room</button>
+    <!-- <a href="https://cl-drawing-app.glitch.me/private"> -->
+    <a href="http://localhost:4000/private">
+      <button id="private-btn">Private Room</button>
+    </a>
+  </div>
+
+  <h1>Public Drawing Room</h1>
+
+  <section class="img-container">
+
+    <ul class="img-list" id="img-list">
+    </ul>
+
+  </section>
+
+  <div class="Tools">
+    <button id="draw-btn" onclick="brush()">Draw</button>
+    <button id="erase-btn" onclick="eraser()">Eraser</button>
+    <button id="clear-btn" onclick="clearCanvas()">Clear</button>
+    <button id="post-btn"> Post Drawing </button>
+  </div>
+</body>
+
+</html>
