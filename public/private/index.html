@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WhiteBoard</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/p5.js"></script>
+  <script type="text/javascript" src="/socket.io/socket.io.js"></script>
+  <script src="app.js"></script>
+  <script src="common.js"></script>
+</head>
+
+<body>
+  <h1>Private Drawing Room</h1>
+
+  <h2>
+    Theme:
+    <span id="theme"></span>
+  </h2>
+
+  <section class="img-container">
+
+    <ul class="img-list" id="img-list">
+    </ul>
+
+  </section>
+
+  <div class="tools">
+    <button id="draw-btn" onclick="brush()">Draw</button>
+    <button id="erase-btn" onclick="eraser()">Eraser</button>
+    <button id="clear-btn" onclick="clearCanvas()">Clear</button>
+    <button id="post-btn">Post Drawing</button>
+  </div>
+</body>
+
+</html>

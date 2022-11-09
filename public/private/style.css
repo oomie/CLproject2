@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+body {
+    background-color: bisque;
+    font-family: 'Indie Flower', cursive;
+}
+
+.tools {
+    position: absolute;
+    left: 1020px;
+    top: 500px;
+}
