@@ -234,6 +234,7 @@ In the case of our code, we fetched the information from the server twice, once 
 ## Contributions
 
 ### Fatema:
+This project was definitely a learning process and experience. The end result was very rewarding and I feel like I have a much more clear understanding of how databases work specifically with nebd and sockets. I am now more familiar and confident with the different ways they can be used, implemented, and the many possibilities they hold. Working in pairs was a very nice and enjoyable experience.  Toomie and I wrote the code together, we were either in person or on a very long zoom call. Writing the code together was extremely helpful! Because it was easier to catch minor errors and mistakes in the code. It was easier to find solutions to code issues when we were working together as we would discuss ways of solving it. We contributed on all parts of the project all the way from planning to technicalities and styling. At some points we split tasks in order to finish on time. Overall it was a fun and insightful project!
 
 ### Toomie:
 
