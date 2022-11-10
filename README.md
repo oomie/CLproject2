@@ -231,6 +231,12 @@ In the case of our code, we fetched the information from the server twice, once 
 
 ## Next Steps
 
+## Contributions
+
+### Fatema:
+
+### Toomie:
+
 ## References
 
 * [Convert An Image To A DataURL or Base64 String Using JavaScript](https://pqina.nl/blog/convert-an-image-to-a-base64-string-with-javascript/#fetching-the-image-source)
