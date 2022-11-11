@@ -1,10 +1,9 @@
 # Connections Lab Project 2: Collaborative Bulletin Board 
 Fatima Aljunaibi (toomie) & Fatema Alhameli
 
-Live Site: https://cl-project2final.glitch.me
+* [Live Site](https://cl-project2final.glitch.me)
 
-Glitch Code Link: https://glitch.com/edit/#!/cl-project2final?path=public%2Fprivate%2Fapp.js%3A22%3A23 
-
+* [Glitch Code Link](https://glitch.com/edit/#!/cl-project2final?path=public%2Fprivate%2Fapp.js%3A22%3A23)
 
 ## Concept 
 Our concept for this project was to make a  website where multiple people can add drawings or doodles to a bulletin board. People can make private rooms to send drawing based on a certain theme. Users are also able to like each others drawings. 
@@ -315,7 +314,7 @@ One more thing that would be a great addition is making the site mobile-friendly
 This project was definitely a learning process and experience. The end result was very rewarding and I feel like I have a much more clear understanding of how databases work specifically with nedb and sockets. I am now more familiar and confident with the different ways they can be used, implemented, and the many possibilities they hold. Working in pairs was a very nice and enjoyable experience.  Toomie and I wrote the code together, we were either in person or on a very long zoom call. Writing the code together was extremely helpful! Because it was easier to catch minor errors and mistakes in the code. It was easier to find solutions to code issues when we were working together as we would discuss ways of solving it. We contributed on all parts of the project all the way from planning to technicalities and styling. At some points we split tasks in order to finish on time. Overall it was a fun and insightful project!
 
 ### Toomie:
-This project has really helped me learn a lot about working with databases and how to store and get information from them. Although we had such a short time to work on this project, it was very rewarding to have it work out well in the end. Fatema and I worked together most of the time - we discussed possible ideas and settled on this one. We planned out the wireframes and information flow together, and once we started coding we found that writing the code together really helped us get things done and understand things better. We found errors, typos and came up with solutions much faster while working together, and we consulted each other when making changes to the styling or code. We worked on glitch sometimes, but mostly we screenshared on zoom and sent each other the code through google drive, or worked together in person. We also split some tasks between us due to time constraints, but overall the project was mostly collaborative and a very positive experience! 
+This project has really helped me learn a lot about working with databases and how to store and get information from them. Although we had such a short time to work on this project, it was very rewarding to have it work out well in the end. Fatema and I worked together most of the time - we discussed possible ideas and settled on this one. We planned out the wireframes and information flow together, and once we started coding we found that writing the code together really helped us get things done and understand things better. We found errors, typos and came up with solutions much faster while working together, and we consulted each other when making changes to the styling or code. We made a shared google doc to keep track of what tasks we needed to finish and we also noted down any questions we had. We worked on glitch sometimes, but mostly we screenshared on zoom and sent each other the code through google drive, or worked together in person. We also split some tasks between us due to time constraints, but overall the project was mostly collaborative and a very positive experience! 
 
 ## References
 
@@ -327,9 +326,13 @@ This project has really helped me learn a lot about working with databases and h
 
 * [Class Notes and Examples](https://github.com/MathuraMG/ConnectionsLab-NYUAD)
 
-* [sessionStorage] (https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage)
+* [sessionStorage reference](https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage)
 
-* [Fonts] (https://fonts.google.com)
+* [Google Fonts](https://fonts.google.com)
+
+* [Scrollable Div](https://stackoverflow.com/questions/9707397/making-a-div-vertically-scrollable-using-css)
+
+* [Horizontal List](https://stackoverflow.com/questions/885691/how-to-make-a-ul-display-in-a-horizontal-row)
 
 
 
