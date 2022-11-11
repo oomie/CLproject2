@@ -1,10 +1,16 @@
 # Connections Lab Project 2: Collaborative Bulletin Board 
 Fatima Aljunaibi (toomie) & Fatema Alhameli
 
-Glitch Link:(https://glitch.com/edit/#!/cl-project2final?path=public%2Fprivate%2Fapp.js%3A22%3A23)
+Live Site: https://cl-project2final.glitch.me
+
+Glitch Code Link: https://glitch.com/edit/#!/cl-project2final?path=public%2Fprivate%2Fapp.js%3A22%3A23 
+
 
 ## Concept 
-Our basic concept is to make a  website where multiple people can add drawings or doodles to the bulletin board. People can make private rooms to send drawing based on a certain. Users are also able to like eachothers drawings. This idea was initially inspired by the game animal crossing. The game had a bulletin board feature where you can draw on your bulletin board or another user's board and your drawings would be posted. 
+Our concept for this project was to make a  website where multiple people can add drawings or doodles to a bulletin board. People can make private rooms to send drawing based on a certain theme. Users are also able to like each others drawings. 
+### Inspiration
+This idea was initially inspired by the game animal crossing. The game had a bulletin board feature where you can draw on your bulletin board or another user's board and your drawings would be posted. It looks like this in-game : 
+
 
 
 ## Planning Process
