@@ -304,7 +304,7 @@ We also had some issues getting the like button to work. At first, the likes wou
 ## Next Steps
 The site is working well right now, but it would be better if the images were posted in real time with sockets rather than every two seconds. 
 
-We could also add more features to the drawing interface, such as brush and eraser sizes, undo and redo buttons, and giving users the ability to delete drawings once they are posted. Another suggestion that we got after getting feedback from our classmates was being able to edit drawings once they are posted. 
+We could also add more features to the drawing interface, such as brush and eraser sizes, fill, undo and redo buttons, and giving users the ability to delete drawings once they are posted. Another suggestion that we got after getting feedback from our classmates was being able to edit drawings once they are posted. 
 
 One more thing that would be a great addition is making the site mobile-friendly. Right now the website works best on laptops, so redesigning the layout for mobile would make it more easily accessible, and it would also be easier to draw on a phone with your finger than with a mouse/mousepad. 
 
