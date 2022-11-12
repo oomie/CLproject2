@@ -1,4 +1,4 @@
-# Connections Lab Project 2: Collaborative Bulletin Board 
+# Connections Lab Project 2: Bulletin Doodles
 Fatima Aljunaibi (toomie) & Fatema Alhameli
 
 * [Live Site](https://cl-project2final.glitch.me)
