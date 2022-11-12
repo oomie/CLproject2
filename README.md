@@ -5,6 +5,8 @@ Fatima Aljunaibi (toomie) & Fatema Alhameli
 
 * [Glitch Code Link](https://glitch.com/edit/#!/cl-project2final?path=public%2Fprivate%2Fapp.js%3A22%3A23)
 
+### ** please note that the files in this repository are outdated, the most recent version is on glitch **
+
 ## Concept 
 Our concept for this project was to make a  website where multiple people can add drawings or doodles to a bulletin board. People can make private rooms to send drawing based on a certain theme. Users are also able to like each others drawings. 
 ### Inspiration
